@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://83.168.226.90" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="w00153870" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WebApplication4.dll" publishTime="04/05/2013 00:18:08" />
+    <file relUrl="bin/WebApplication4.pdb" publishTime="04/05/2013 00:18:08" />
+    <file relUrl="WebForm1.aspx" publishTime="04/05/2013 00:16:31" />
+    <file relUrl="Web.config" publishTime="04/05/2013 00:18:20" />
+  </publishProfile>
+</publishData>
